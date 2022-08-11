@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Parceiros</title>
+    <title>parceiros</title>
   </head>
   <body>
-   
+    <h1>Parceiros</h1>
+    <a href="index.html">pagina inicial</a>
   </body>
 </html>
